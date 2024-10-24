@@ -1,0 +1,12 @@
+.active {
+  background-image: url("https://s3-alpha-sig.figma.com/img/9494/3b52/9d1448e3e7fc49a47215bd903d473cf4?Expires=1726444800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OtuLnU0mDQjMMMFeqy9Vzjuu6cwD~sptCwnSeqxIvlZlYocv87S~KswMn63Jf5IOf2nXex3h3ZwxjKQXqzmCjtKR7IKCd1NajzSHbHJufTjn3yjSfHMPZ3iDjo6pv-fbMuXiSMxbv5ICoqoETgwD5eJj00jM14OLXV2x8MzCnFFP3w~1dNqwgePDXaudPyrL6LlOZczvuheqe91Sd7bQXwWG2KcceY6zLzZ3R6K7nL1WyivF2KNZD5rABTy6vMXbC4YlB-LI54Em5vkVmx3wiobWUjRSzqPrct-dFJeIAFc05sP73v-FrmWDAlhUB5pV6S~VWRTZFV3r5wy2Vm9b1Q__");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
